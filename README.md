@@ -142,11 +142,8 @@ A simple system that informs students when their college bus is about to reach t
 📁 Bus-Arrival-Alert
 │
 ├── README.md
-├── presentation.pdf
-├── Bus-Arrival-Alert.pptx
-├── prototype.png
-└── assets/
-```
+├── Bus-Arrival-Alert.pdf
+
 
 ---
 
